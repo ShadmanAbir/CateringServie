@@ -1,0 +1,13 @@
+E:\Repo\CateringService\CateringService.ServiceDefaults\bin\Debug\net9.0\CateringService.ServiceDefaults.deps.json
+E:\Repo\CateringService\CateringService.ServiceDefaults\bin\Debug\net9.0\CateringService.ServiceDefaults.dll
+E:\Repo\CateringService\CateringService.ServiceDefaults\bin\Debug\net9.0\CateringService.ServiceDefaults.pdb
+E:\Repo\CateringService\CateringService.ServiceDefaults\obj\Debug\net9.0\CateringService.ServiceDefaults.csproj.AssemblyReference.cache
+E:\Repo\CateringService\CateringService.ServiceDefaults\obj\Debug\net9.0\CateringService.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repo\CateringService\CateringService.ServiceDefaults\obj\Debug\net9.0\CateringService.ServiceDefaults.AssemblyInfoInputs.cache
+E:\Repo\CateringService\CateringService.ServiceDefaults\obj\Debug\net9.0\CateringService.ServiceDefaults.AssemblyInfo.cs
+E:\Repo\CateringService\CateringService.ServiceDefaults\obj\Debug\net9.0\CateringService.ServiceDefaults.csproj.CoreCompileInputs.cache
+E:\Repo\CateringService\CateringService.ServiceDefaults\obj\Debug\net9.0\CateringService.ServiceDefaults.sourcelink.json
+E:\Repo\CateringService\CateringService.ServiceDefaults\obj\Debug\net9.0\CateringService.ServiceDefaults.dll
+E:\Repo\CateringService\CateringService.ServiceDefaults\obj\Debug\net9.0\refint\CateringService.ServiceDefaults.dll
+E:\Repo\CateringService\CateringService.ServiceDefaults\obj\Debug\net9.0\CateringService.ServiceDefaults.pdb
+E:\Repo\CateringService\CateringService.ServiceDefaults\obj\Debug\net9.0\ref\CateringService.ServiceDefaults.dll

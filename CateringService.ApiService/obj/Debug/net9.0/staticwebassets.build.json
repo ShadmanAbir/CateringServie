@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UyKS22J6zK2q56kk2xYnKQOnf3QWdLD0TvrHcmP5mqY=",
+  "Source": "CateringService.ApiService",
+  "BasePath": "_content/CateringService.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

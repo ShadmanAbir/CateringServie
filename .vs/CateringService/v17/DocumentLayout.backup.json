@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repo\\CateringService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99041BF8-589A-45E0-B19F-2DA71E1B247F}|CateringService.AppHost\\CateringService.AppHost.csproj|e:\\repo\\cateringservice\\cateringservice.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99041BF8-589A-45E0-B19F-2DA71E1B247F}|CateringService.AppHost\\CateringService.AppHost.csproj|solutionrelative:cateringservice.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99041BF8-589A-45E0-B19F-2DA71E1B247F}|CateringService.AppHost\\CateringService.AppHost.csproj|e:\\repo\\cateringservice\\cateringservice.apphost\\cateringservice.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99041BF8-589A-45E0-B19F-2DA71E1B247F}|CateringService.AppHost\\CateringService.AppHost.csproj|solutionrelative:cateringservice.apphost\\cateringservice.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32CC4D6-D64D-4C0B-9C27-62AB9F1840D6}|CateringService.ServiceDefaults\\CateringService.ServiceDefaults.csproj|e:\\repo\\cateringservice\\cateringservice.servicedefaults\\cateringservice.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F32CC4D6-D64D-4C0B-9C27-62AB9F1840D6}|CateringService.ServiceDefaults\\CateringService.ServiceDefaults.csproj|solutionrelative:cateringservice.servicedefaults\\cateringservice.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EE4D60-25CA-48C0-AAEC-A13060A177B7}|OrdersService\\OrdersService.csproj|e:\\repo\\cateringservice\\ordersservice\\ordersservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83EE4D60-25CA-48C0-AAEC-A13060A177B7}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\ordersservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2092966B-3841-4DAC-92CA-A262E186DE11}|PaymentService\\PaymentService.csproj|e:\\repo\\cateringservice\\paymentservice\\paymentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2092966B-3841-4DAC-92CA-A262E186DE11}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\paymentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2294F1-0101-41B5-BA1C-8BCFA95C439A}|CateringService.ApiService\\CateringService.ApiService.csproj|e:\\repo\\cateringservice\\cateringservice.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD2294F1-0101-41B5-BA1C-8BCFA95C439A}|CateringService.ApiService\\CateringService.ApiService.csproj|solutionrelative:cateringservice.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2294F1-0101-41B5-BA1C-8BCFA95C439A}|CateringService.ApiService\\CateringService.ApiService.csproj|e:\\repo\\cateringservice\\cateringservice.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2294F1-0101-41B5-BA1C-8BCFA95C439A}|CateringService.ApiService\\CateringService.ApiService.csproj|solutionrelative:cateringservice.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2294F1-0101-41B5-BA1C-8BCFA95C439A}|CateringService.ApiService\\CateringService.ApiService.csproj|e:\\repo\\cateringservice\\cateringservice.apiservice\\configuration\\yarp.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD2294F1-0101-41B5-BA1C-8BCFA95C439A}|CateringService.ApiService\\CateringService.ApiService.csproj|solutionrelative:cateringservice.apiservice\\configuration\\yarp.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CateringService.AppHost.csproj",
+              "DocumentMoniker": "E:\\Repo\\CateringService\\CateringService.AppHost\\CateringService.AppHost.csproj",
+              "RelativeDocumentMoniker": "CateringService.AppHost\\CateringService.AppHost.csproj",
+              "ToolTip": "E:\\Repo\\CateringService\\CateringService.AppHost\\CateringService.AppHost.csproj",
+              "RelativeToolTip": "CateringService.AppHost\\CateringService.AppHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T07:46:54.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CateringService.ServiceDefaults.csproj",
+              "DocumentMoniker": "E:\\Repo\\CateringService\\CateringService.ServiceDefaults\\CateringService.ServiceDefaults.csproj",
+              "RelativeDocumentMoniker": "CateringService.ServiceDefaults\\CateringService.ServiceDefaults.csproj",
+              "ToolTip": "E:\\Repo\\CateringService\\CateringService.ServiceDefaults\\CateringService.ServiceDefaults.csproj",
+              "RelativeToolTip": "CateringService.ServiceDefaults\\CateringService.ServiceDefaults.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T07:45:46.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentService.csproj",
+              "DocumentMoniker": "E:\\Repo\\CateringService\\PaymentService\\PaymentService.csproj",
+              "RelativeDocumentMoniker": "PaymentService\\PaymentService.csproj",
+              "ToolTip": "E:\\Repo\\CateringService\\PaymentService\\PaymentService.csproj",
+              "RelativeToolTip": "PaymentService\\PaymentService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T07:45:01.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersService.csproj",
+              "DocumentMoniker": "E:\\Repo\\CateringService\\OrdersService\\OrdersService.csproj",
+              "RelativeDocumentMoniker": "OrdersService\\OrdersService.csproj",
+              "ToolTip": "E:\\Repo\\CateringService\\OrdersService\\OrdersService.csproj",
+              "RelativeToolTip": "OrdersService\\OrdersService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T07:44:59.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Repo\\CateringService\\CateringService.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "CateringService.ApiService\\Program.cs",
+              "ToolTip": "E:\\Repo\\CateringService\\CateringService.ApiService\\Program.cs",
+              "RelativeToolTip": "CateringService.ApiService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:42:09.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Repo\\CateringService\\CateringService.ApiService\\appsettings.json",
+              "RelativeDocumentMoniker": "CateringService.ApiService\\appsettings.json",
+              "ToolTip": "E:\\Repo\\CateringService\\CateringService.ApiService\\appsettings.json",
+              "RelativeToolTip": "CateringService.ApiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T07:40:02.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Repo\\CateringService\\CateringService.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "CateringService.AppHost\\Program.cs",
+              "ToolTip": "E:\\Repo\\CateringService\\CateringService.AppHost\\Program.cs",
+              "RelativeToolTip": "CateringService.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:34:43.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "yarp.json",
+              "DocumentMoniker": "E:\\Repo\\CateringService\\CateringService.ApiService\\Configuration\\yarp.json",
+              "RelativeDocumentMoniker": "CateringService.ApiService\\Configuration\\yarp.json",
+              "ToolTip": "E:\\Repo\\CateringService\\CateringService.ApiService\\Configuration\\yarp.json",
+              "RelativeToolTip": "CateringService.ApiService\\Configuration\\yarp.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T07:16:01.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
